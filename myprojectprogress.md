@@ -1,0 +1,1 @@
+I am planning to work on the TutorBase RCOS project, which is a web application. This repository makes more sense as a common repository since it is already an existing project, meaning multiple branches could easily be created to address certain features. There shouldn't be much overlap of development because much of the project has already been built.
